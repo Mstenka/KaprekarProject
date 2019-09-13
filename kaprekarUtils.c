@@ -2,6 +2,8 @@
 
 #include "kaprekarUtils.h"
 
+//Fixed by Michael Stenka
+
 
 /**
  * <p>This function tests whether the given input <code>n</code>
